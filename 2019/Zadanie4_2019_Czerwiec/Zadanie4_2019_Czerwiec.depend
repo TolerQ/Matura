@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1613943816 source:d:\barte\documents\programy c++\zadanie4_2019_czerwiec\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+
