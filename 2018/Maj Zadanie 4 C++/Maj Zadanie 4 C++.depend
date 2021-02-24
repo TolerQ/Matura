@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1614170862 source:d:\barte\documents\programy c++\2018\maj zadanie 4 c++\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<algorithm>
+
